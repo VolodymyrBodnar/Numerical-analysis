@@ -4,4 +4,4 @@
 Gauss,Jacobi,LU and tridiagonal matrix  methods for  system of linear equation, and method of hords for nonlinear equaitions.
 All algorithms written in pure python.
 
-In the future i will add some .m files writen in GNU Octave for some other algorithms.
+
